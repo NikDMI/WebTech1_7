@@ -1,0 +1,5 @@
+[31-May-2022 14:14:55 Europe/Minsk] PHP Warning:  require_once(../class/Weather.php): Failed to open stream: No such file or directory in C:\WebData\PhpPractica\LB7\task3.php on line 2
+[31-May-2022 14:14:55 Europe/Minsk] PHP Fatal error:  Uncaught Error: Failed opening required '../class/Weather.php' (include_path='.;C:\php\pear') in C:\WebData\PhpPractica\LB7\task3.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\WebData\PhpPractica\LB7\task3.php on line 2
